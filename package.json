@@ -1,7 +1,7 @@
 {
   "name": "okuui",
   "displayName": "Oku UI",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Register global imports on demand for Vite and Webpack",
   "keywords": [
     "unplugin",

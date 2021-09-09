@@ -1,21 +1,27 @@
 {
-  "name": "unplugin-starter",
-  "version": "0.1.0",
+  "name": "okuui",
+  "displayName": "Oku UI",
+  "version": "0.0.1",
   "description": "Register global imports on demand for Vite and Webpack",
   "keywords": [
     "unplugin",
     "vite",
     "webpack",
     "rollup",
-    "transform"
+    "transform",
+    "vue",
+    "ui",
+    "ux",
+    "smart design"
   ],
-  "homepage": "https://github.com/antfu/unplugin-starter#readme",
+  "author": "Mehmet Kalayci (https://github.com/productfrontenddeveloper/)",
+  "homepage": "https://github.com/productfrontenddeveloper/okuui#readme",
   "bugs": {
-    "url": "https://github.com/antfu/unplugin-starter/issues"
+    "url": "https://github.com/productfrontenddeveloper/okuui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/unplugin-starter.git"
+    "url": "git+https://github.com/productfrontenddeveloper/okuui.git"
   },
   "license": "MIT",
   "exports": {
